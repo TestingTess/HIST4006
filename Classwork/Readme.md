@@ -1,9 +1,10 @@
 # The Classwork folder
-This is the folder where you should put your on-going work on your folios.
+This is the folder where you should store exercises/ homework .
 
 Name your files according to the following convention:
 
 1. first - your last name
-2. then the document name
+2. then what week the homework relates to
+3. then what the assignment is
 
-E.g. Saurette_Ottawa_ARC_charter_2.
+E.g. Saurette, week 4 github test
